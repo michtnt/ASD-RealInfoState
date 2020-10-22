@@ -21,10 +21,6 @@
 - PaperTrail (Logging)
 - CodeShip (CI)
 
-## API Used
-- 
-
-
 ## Features
 R0:
 - Login 
@@ -39,6 +35,11 @@ R1:
 - News Page Online
 - Property information is linked to MongoDB 
 
+R2
+- Wishlist
+- Logs
+- Bannners
+- Locking account when there is more than 5 login attempts
 
 ## File Structure
 - **/real-infostate_React_base**
@@ -48,4 +49,3 @@ R1:
 - **/real-infostate_React_base/server/routes**
 - **/real-infostate_React_base/server/utils**
 - **/real-infostate_React_base/src/components**
-=
